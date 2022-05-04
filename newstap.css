@@ -1,0 +1,14 @@
+@media screen and (max-width: 320px) {
+    .card {
+      margin-bottom: 32px;
+    }
+    .jumbotron {
+        margin-bottom: 32px; 
+    }
+  }
+
+@media screen and (max-width: 320px) {
+  .btn {
+    background-color: #c22020 !important;
+}
+}
